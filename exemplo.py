@@ -3,10 +3,16 @@ import discord
 bot = discord.Bot(command_prefix='w!')
 
 
+# ----------------- Primeiro Comando -----------------------
 
 @bot.command()
 async def teste(ctx):
     await ctx.send('olá mundo')
+
+    
+    
+    
+# ----------------- Embed -----------------------
     
 @bot.command()
 async def embed(ctx):
