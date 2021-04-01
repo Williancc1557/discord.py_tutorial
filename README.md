@@ -42,7 +42,7 @@ Pronto para fazer o seu **primeiro comando?** Vamos lá!
 
 **todo comando possui no seu início:** @bot.command()
 
-Então entre o seu prefixo que aqui denominei como `bot` e seu token coloque o seguinte comando:
+Então entre o seu prefixo que aqui denominei como `bot` e seu token **coloque o seguinte comando:**
 
 ```python
 @bot.command()
