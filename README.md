@@ -52,7 +52,7 @@ async def teste(ctx):
 
 Toda função assíncrona de um comando deve possuir no início o argumento `ctx` - Ele é o contexto do comando!
 
-colocamos o `await ctx.send` com a seguinte função:
+***colocamos o `await ctx.send` com a seguinte função:***
 
 
 O `await` é obrigatório por causa da função assíncrona.
