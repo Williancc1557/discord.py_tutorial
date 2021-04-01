@@ -66,6 +66,26 @@ O `send` traduzindo para o português significa **enviar**
 Digite o prefixo e o nome da função juntos. Aqui no caso seria `w!teste`
 
 
+# Criando uma Embed
+***O que é uma embed?***
+**Um tipo de forma para texto** disponibilizado apenas na API do discord para deixar seus textos mais enfeitador/bonitos.
+
+**Vamos la!**
+```python
+@bot.command()
+async def embed(ctx):
+    variavel = discord.Embed(title='Olá mundo',
+                             description=f'essa é a nossa descrição! executada pelo(a) {ctx.author}',
+                             color=0x00FF00)
+    await ctx.send(embed=variavel)
+    ```
+
+
+**Sempre que você for enviar uma embed,** deve especifica-la usando `embed=`.
+
+***Agora é só executar a instância e dar o comando `w!embed`. Lembrando que o prefixo trabalhado aqui é `w!`***
+    
+
 Não entendeu? Ou tem mais dúvidas? Entre no discord: https://discord.gg/Z6sx6qndSA
 
 
