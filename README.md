@@ -17,4 +17,8 @@ import discord
 Vamos fazer nosso **primeiro comando?** Então vamos lá!
 
 
+**setar o prefixo** é essencial para a criação de nosso bot.
+
+Então vamos criar a seguinte variável:
+
 
