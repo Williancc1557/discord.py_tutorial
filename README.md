@@ -1,4 +1,4 @@
-# Como Iniciar!
+# Como Iniciar
 
 primeiramente, **instale o módulo do discord.py.** Instale utilizando o seguinte comando no cmd:
 
@@ -36,7 +36,7 @@ No lugar do `token`, coloque o token do seu bot.
 
 ***A partir desse momento já podemos iniciar o nosso bot.***
 
-# Primeiro Comando!
+# Primeiro Comando
 
 Pronto para fazer o seu **primeiro comando?** Vamos lá!
 
