@@ -57,7 +57,7 @@ colocamos o `await ctx.send` com a seguinte função:
 
 O `await` é obrigatório por causa da função assíncrona.
 
-O `ctx` tem a função de indentificar o local onde vai ser enviado a mensagem!
+O `ctx` nesse caso tem a função de indentificar o local onde vai ser enviado a mensagem!
 
 O `send` traduzindo para o português significa **enviar**
 
