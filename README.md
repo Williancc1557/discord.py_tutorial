@@ -14,3 +14,7 @@ import discord
 
 # Primeiro Comando!
 
+Vamos fazer nosso **primeiro comando?** Então vamos lá!
+
+
+
