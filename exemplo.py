@@ -1,6 +1,11 @@
 import discord
 
+
+#----------------- Prefixo -----------------------
+
 bot = discord.Bot(command_prefix='w!')
+
+
 
 
 # ----------------- Primeiro Comando -----------------------
