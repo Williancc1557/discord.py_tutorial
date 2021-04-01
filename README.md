@@ -1,2 +1,11 @@
-# discord.py_tutorial
-Deseja fazer um bot no discord utilizando python? Então esse repositório é para você!
+### Como Iniciar!
+
+primeiramente, **instale o módulo do discord.py.**
+
+Após isso **importe o modulo do discord na sua instância** escrevendo o seguinte:
+
+```python
+import discord
+```
+
+
