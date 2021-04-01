@@ -78,7 +78,7 @@ async def embed(ctx):
                              description=f'essa é a nossa descrição! executada pelo(a) {ctx.author}',
                              color=0x00FF00)
     await ctx.send(embed=variavel)
-    ```
+ ```
 
 
 **Sempre que você for enviar uma embed,** deve especifica-la usando `embed=`.
