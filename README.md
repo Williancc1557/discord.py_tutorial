@@ -75,8 +75,8 @@ Um tipo de forma para texto disponibilizado apenas na API do discord para deixar
 @bot.command()
 async def embed(ctx):
     msg = discord.Embed(title='Olá mundo',
-                             description=f'essa é a nossa descrição! executada pelo(a) {ctx.author}',
-                             color=0x00FF00)
+                        description=f'essa é a nossa descrição! executada pelo(a) {ctx.author}',
+                        color=0x00FF00)
     await ctx.send(embed=msg)
  ```
 
