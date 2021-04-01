@@ -50,7 +50,7 @@ async def teste(ctx):
     await ctx.send('olá mundo')
 ```
 
-Toda função assíncrona de um comando deve possuir no início o `ctx` - Ele é o contexto do comando!
+Toda função assíncrona de um comando deve possuir no início o ARGUMENTO `ctx` - Ele é o contexto do comando!
 
 colocamos o `await ctx.send` com a seguinte função:
 
