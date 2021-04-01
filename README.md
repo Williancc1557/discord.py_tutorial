@@ -68,7 +68,7 @@ Digite o prefixo e o nome da função juntos. Aqui no caso seria `w!teste`
 
 # Criando uma Embed
 ***O que é uma embed?***
-Um tipo de forma para texto disponibilizado apenas na API do discord para deixar seus textos mais enfeitador/bonitos.
+Um tipo de forma para texto disponibilizado apenas na API do discord para deixar seus textos mais enfeitados / bonitos.
 
 **Vamos la!**
 ```python
