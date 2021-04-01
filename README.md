@@ -74,14 +74,16 @@ Digite o prefixo e o nome da função juntos. Aqui no caso seria `w!teste`
 ```python
 @bot.command()
 async def embed(ctx):
-    variavel = discord.Embed(title='Olá mundo',
+    msg = discord.Embed(title='Olá mundo',
                              description=f'essa é a nossa descrição! executada pelo(a) {ctx.author}',
                              color=0x00FF00)
-    await ctx.send(embed=variavel)
+    await ctx.send(embed=msg)
  ```
 
 
-**Sempre que você for enviar uma embed,** deve especifica-la usando `embed=`.
+**Sempre que você for enviar uma embed,** deve especifica-la usando `embed=`
+
+O `color` da embed setada na variável msg **Sempre deve ser uma cor em hexadecimal**. Ao colocar o hexadecimal, você deve colocar um `0x` antes!
 
 ***Agora é só executar a instância e dar o comando `w!embed`. Lembrando que o prefixo trabalhado aqui é `w!`***
 
