@@ -83,7 +83,7 @@ async def embed(ctx):
 
 **Sempre que você for enviar uma embed,** deve especifica-la usando `embed=`
 
-O `color` da embed setada na variável msg **Sempre deve ser uma cor em hexadecimal**. Ao colocar o hexadecimal, você deve colocar um `0x` antes!
+O `color` da embed setada na variável `msg` **Sempre deve ser uma cor em hexadecimal**. Ao colocar o hexadecimal, você deve colocar um `0x` antes!
 
 ***Agora é só executar a instância e dar o comando `w!embed`. Lembrando que o prefixo trabalhado aqui é `w!`***
 
