@@ -1,4 +1,4 @@
-### Como Iniciar!
+# Como Iniciar!
 
 primeiramente, **instale o módulo do discord.py.** Instale utilizando o seguinte comando no cmd:
 
@@ -11,7 +11,7 @@ Após isso, **importe o modulo do discord na sua instância** escrevendo o segui
 ```python
 import discord
 ```
-# E vamos por a mão na massa!
+## E vamos por a mão na massa!
 
-## Primeiro Comando!
+# Primeiro Comando!
 
