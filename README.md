@@ -84,6 +84,9 @@ async def embed(ctx):
 **Sempre que você for enviar uma embed,** deve especifica-la usando `embed=`.
 
 ***Agora é só executar a instância e dar o comando `w!embed`. Lembrando que o prefixo trabalhado aqui é `w!`***
+
+
+___
     
 
 Não entendeu? Ou tem mais dúvidas? Entre no discord: https://discord.gg/Z6sx6qndSA
